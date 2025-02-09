@@ -13,6 +13,7 @@ A simple counter application built using React that allows users to increment, d
 <h2>Technologies Used</h2>
 <ul>
   <li>React.js</li>
+  <li>Tailwind CSS(for styling)</li>
 </ul>
 
 ## Installation
